@@ -1,0 +1,11 @@
+
+.box:nth-of-type(odd) {
+    background-color:rgb(224, 221, 221);
+    }
+        
+    .box:nth-of-type(even) {
+    background-color:#fff;
+    }
+    
+    
+/* Row:nth-child(even) {background-color: #f2f2f2;} */

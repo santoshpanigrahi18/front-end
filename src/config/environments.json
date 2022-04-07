@@ -1,0 +1,13 @@
+{
+    "local": {
+      "BASE_URL":"https://nodedhl-dot-ap-p-std-gbs-apicanalytic-003.as.r.appspot.com"
+    },
+    "development": {
+        "BASE_URL":"https://nodedhl-dot-ap-p-std-gbs-apicanalytic-003.as.r.appspot.com"
+      },
+    "production": {
+        "BASE_URL":"https://nodedhl-dot-ap-p-std-gbs-apicanalytic-003.as.r.appspot.com"
+    }
+   
+  }
+  
